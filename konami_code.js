@@ -19,5 +19,5 @@ document.addEventListener('keydown', function (e) {
 });
 
 function init() {
-  alert("HEY baby! You got it right!");
+  return "HEY baby! You got it right!";
 }
