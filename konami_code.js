@@ -22,6 +22,4 @@ function init () {
       }
       });
     }
-
-
-
+init();
