@@ -7,7 +7,7 @@ document.addEventListener('keydown', function (e) {
   if (keyCode === keyEquiv) {
     codePos++;
     if (codePos ===code.length) {
-      return init();
+      init();
       codePos = 0;
     } else {
       code = 0;
