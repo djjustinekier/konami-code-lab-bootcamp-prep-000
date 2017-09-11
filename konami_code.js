@@ -13,7 +13,7 @@ document.addEventListener('keydown', function (e) {
       code = 0;
     }
   }
-  
+
 });
 
 
