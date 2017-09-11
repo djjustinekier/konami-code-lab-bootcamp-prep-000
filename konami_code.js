@@ -18,6 +18,6 @@ document.addEventListener('keydown', function (e) {
 
 
 function init() {
-  alert ('HEY baby! You got it right!')
+  alert('HEY baby! You got it right!');
 
 }
